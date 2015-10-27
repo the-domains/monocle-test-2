@@ -1,0 +1,23 @@
+name: Monocle Test 2
+favicon: null
+layout_spectrum: 0.7491229388397187
+typography_spectrum: 0.9917075112462044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3605014767963439
+  lightness: 0.40356401540338993
+  saturation: 0.8352322401478887
+  rhythmicContrast: 0.34375697933137417
+purpose: []
